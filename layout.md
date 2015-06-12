@@ -1,2 +1,2 @@
 extabstract.tex
-List_of_references_Dowrick_s__.md
+List_of_references_Peter_Dowrick__.md
