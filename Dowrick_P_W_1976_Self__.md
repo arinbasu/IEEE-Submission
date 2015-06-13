@@ -1,0 +1,1 @@
+Dowrick, P. W. (1976). Self modelling: A videotape training technique for disturbed and disabled children. Doctoral dissertation, University of Auckland, New Zealand.
