@@ -9,5 +9,5 @@ Despite several implementations of the self measurement technologies, it is not 
 The organization of the paper will be in three parts as follows: a brief background history of the emergence of the Internet of Things, the concept of video self modeling and describe their potential in changing teaching and learning practices in the tertiary sector particularly in professional education a systematic review of the effectiveness of the emergent technologies (IoT, and wearable computing devices) for educational purposes, and finally, we shall provide a synthesis of how the more effective technologies can be compared, contrasted, and combined with the practices of self modeling to foster effective learning.
 
 We shall select English language intervention studies published in the last 10 years. The review, will critically appraise information identifying possible biases, ascertain the quality of the studies, and rank order the publications. We will estimate summary effect sizes for differing combinations wherever possible.
-The resulting discussion of on the Internet of Things and self will inform pedagogical tools for rapid learning.
+The resulting discussion of the Internet of Things and self will inform pedagogical tools for rapid learning.
 
