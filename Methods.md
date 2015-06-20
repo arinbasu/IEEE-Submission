@@ -6,10 +6,9 @@ What is the effectiveness of the Internet of Things, and wearable computing for 
 
 ### Inclusion and Exclusion Criteria for the selection of the studies
 
-Studies will be included in this review if:
+English language Studies were included be included in this review if:
 
 1.They are published in English Language
-
 2. Published within the last 10 years
 3. The studies test the effectiveness of the Internet of Things or Connectted Devices
 4. The studies test effectiveness of using these devices in the classroom settings, or for personal or professional education
@@ -36,6 +35,7 @@ Studies will be included in this review if:
 ### Critical Appraisal and Summary of the studies
 
 
+    
     
     
     
