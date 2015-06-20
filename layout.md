@@ -1,6 +1,6 @@
 abstract.md
 Introduction.md
-Methods_Study_Questions_Selection_of__.md
+Methods.md
 collabnotes.tex
 extabstract.tex
 List_of_references_Peter_Dowrick__.md
