@@ -1,4 +1,4 @@
-## What was submitted to the IEEE as abstract
+## Abstract
 
 We are living in an age of the “Internet of Things”(IoT) and “Internet of Self”(IoS), pervasive and omnipresent electronic media and “quantified self” at the physical and biochemical levels. Real time monitoring of self through glasses, watches, wearable computing devices, including fabrics can be harnessed for education.
 
@@ -12,5 +12,6 @@ We shall select English language intervention studies published in the last 10 y
 The resulting discussion of the Internet of Things and self will inform pedagogical tools for rapid learning.
 
 
+    
     
     
