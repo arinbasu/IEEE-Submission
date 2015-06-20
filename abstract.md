@@ -1,4 +1,4 @@
-## What was submitted to the IEEE as abstract
+## Abstract
 
 We are living in an age of the “Internet of Things”(IoT) and “Internet of Self”(IoS), pervasive and omnipresent electronic media and “quantified self” at the physical and biochemical levels. Real time monitoring of self through glasses, watches, wearable computing devices, including fabrics can be harnessed for education.
 
@@ -11,3 +11,8 @@ The organization of the paper will be in three parts as follows: a brief backgro
 We shall select English language intervention studies published in the last 10 years. The review, will critically appraise information identifying possible biases, ascertain the quality of the studies, and rank order the publications. We will estimate summary effect sizes for differing combinations wherever possible.
 The resulting discussion of the Internet of Things and self will inform pedagogical tools for rapid learning.
 
+
+    
+    
+    
+    

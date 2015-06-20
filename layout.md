@@ -1,6 +1,7 @@
-collabnotes.tex
-extabstract.tex
-List_of_references_Peter_Dowrick__.md
-Dowrick_P_W_1976_Self__.md
-What_was_submitted_to_the__.md
+abstract.md
+Introduction.md
+Methods.md
+Results.md
+Discussion.md
 
+    
